@@ -37,6 +37,7 @@ The infection rate in a given sample size showed 81 positive cases for every 100
 
 
 **RECOMMENDATIONS**
+
 From our research we realized that covid is more rampant in the metropolitan area consisting of Nairobi, Kiambu, Machakos and Nakuru counties. More policies should be set up in order to curb its spread to other counties. In addition, the current positive percentage rate in Kenya stands at 8%; 1 in 13 people have COVID-19 as it stands. For this reason it is important for everyone to practice respiratory hygiene such as coughing into a flexed elbow, practicing social distance, washing hands with alcohol based sanitizers and wearing a mask in order to curb the COVID-19 virus.
 
 
