@@ -6,7 +6,7 @@ Authors :
 * Ezra Mageto [Github](https://github.com/EZZRITOE)
 * Troye Gilbert [Github](https://github.com/3HeadedSnake)
 * Mark Ngendo [Github](https://github.com/MarkNgendo)
-* Mary Mbugua [Github]()
+* Mary Mbugua [Github](https://github.com/marywahu109)
 * Ann Nyambura[Github]()
 
 
